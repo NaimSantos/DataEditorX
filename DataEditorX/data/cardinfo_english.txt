@@ -714,7 +714,8 @@
 0x2048	Number S
 0x201	Battlin Boxing
 0x202	Veda
-0x203	Diabellstar
+0x203	Diabell
+0x1203	Diabellstar
 0x204	Sinful Spoils
 0x205	Snake-Eye
 0x206	Patissciel
