@@ -679,6 +679,8 @@
 0x183	Vernusylph
 0x184	Mokey Mokey
 0x185	Wingman
+0x1186 Doodle Beast
+0x2186 Doodlebook
 0x187	G Golem
 0x188	Rainbow Bridge
 0x189	Bystial
