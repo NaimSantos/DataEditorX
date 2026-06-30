@@ -164,6 +164,7 @@
 0x1002	R-Genex
 0x2002	Genex Ally
 0x3	Horus the Black Flame Dragon
+0x1003	Horus the Black Flame Dragon
 0x4	Amazoness
 0x5	Arcana Force
 0x6	Dark World
@@ -202,6 +203,7 @@
 0x2017	Synchro Dragon
 0x18	Cloudian
 0x19	Gladiator Beast
+0x1019	Gladiator Beast
 0x1a	Dark Scorpion
 0x1b	Phantom Beast
 0x101b	Mecha Phantom Beast
@@ -285,6 +287,7 @@
 0x51	Gadget
 0x52	Guardian
 0x1052	Gate Guardian
+0x2052	Skull Guardian
 0x53	Constellar
 0x54	Gagaga
 0x55	Photon
@@ -327,6 +330,7 @@
 0x73	Xyz
 0x1073	CXyz
 0x2073	Xyz Dragon
+0x4073	Armored Xyz
 0x74	Mermail
 0x75	Abyss-
 0x76	Heraldic Beast
@@ -349,6 +353,7 @@
 0x207e	ZS -
 0x7f	Utopi/c
 0x107f	Utopia
+0x207f	Utopic Future
 0x80	Duston
 0x81	Fire King
 0x1081	Fire King Avatar
@@ -409,6 +414,7 @@
 0x10aa	Apoqliphort
 0xab	Deskbot
 0xac	Goblin
+0x10ac	Goblin Biker
 0xad	Frightfur
 0xae	Dark Contract
 0xaf	D/D
@@ -537,6 +543,7 @@
 0x10e	Evolution Pill
 0x10f	Borrel
 0x110	Eyes Restrict
+0x1110	Millennium-Eyes Restrict
 0x111	Armed Dragon
 0x112	Knightmare
 0x113	Elemental Lord
@@ -557,6 +564,7 @@
 0x121	Mayakashi
 0x122	Valkyrie
 0x123	Rose Dragon
+0x1123	Rose Dragon
 0x124	Machine Angel
 0x125	Smile
 0x126	Time Thief
@@ -693,10 +701,13 @@
 0x19a	Memento
 0x19b	Centur-Ion
 0x19c	Vaalmonica
-0x19b	Yubel
+0x19d	Yubel
 0x19e	Silenforc
 0x119f	White Aura
 0x1a0	Toy
+0x1a1	Tenpai
+0x1a2	Sangen
+0x1a3	Ragnaraika
 0x200	Counter
 0x2048	Number S
 0x201	Battlin Boxing
@@ -709,8 +720,14 @@
 0x208	Tistina
 0x1a4	Salamandra
 0x1a5	Ashened
+0x1a6   Millennium
+0x1a7   Exodd 
+0x1a8   Fiendsmith
 0x1a9	Blue Tears
+0x1aa   White Forest
 0x1ab	Tachyon
+0x1ac   Mulcharmy	
+0x1ad	Emblea
 0x1ae	Shark
 0x11ae	Shark Drake
 0x1af	Wedju
