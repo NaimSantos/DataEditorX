@@ -202,7 +202,7 @@
 0x1017	Synchron
 0x2017	Synchro Dragon
 0x18	Cloudian
-0x19	Gladiator Beast
+0x19	Gladiator
 0x1019	Gladiator Beast
 0x1a	Dark Scorpion
 0x1b	Phantom Beast
