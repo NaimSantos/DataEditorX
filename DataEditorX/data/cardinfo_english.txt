@@ -775,6 +775,12 @@
 0x1d6	Blitzclique
 0x1d7	Theorealize
 0x1d8	Aleister
+0x1d9	White Knight Night
+0x1da	Daedaulus
+0x1db	Asutra
+0x1dc	Angelechy
+0x1dd	Ars Magna
+0x1de	Diactorus
 0x500	Speed Spell
 0x501	Alchemy Beast
 0x502	Alligator
